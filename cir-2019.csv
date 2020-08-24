@@ -1,0 +1,55 @@
+Implementation study,Belgium,Czech Republic,Denmark,EMBL-EBI,Estonia,Finland,France,Germany,Greece,Hungary,Ireland,Israel,Italy,Luxembourg,Netherlands,Norway,Portugal,Slovenia,Spain,Sweden,Switzerland,UK
+Capacity Building,1,1,,,1,1,1,,,,,,1,,1,1,1,,,1,,1
+Container Orchestration,1,1,1,1,,1,1,1,,,,,1,1,1,1,1,1,,1,1,1
+Data Integration for Compute,1,,,1,,1,1,1,,,,,1,1,1,1,1,,,1,1,
+ELIXIR Hybrid Cloud,,1,,1,,1,,1,,,,,1,1,1,,,1,1,,,1
+FAIR Service Architecture,,,,1,,,,1,,,,,1,,1,1,,,,1,,1
+"Gap analysis, training materials development and training delivery",,,,,,,1,,1,1,,,1,1,1,1,1,1,,1,,
+Identity and Access Management,,1,,,,1,,1,,,,,1,1,1,1,,,,,,
+Interoperability Services for the Cloud,1,,,1,,,,,,,,,,,,1,,,,,,
+Interoperability with a Purpose,1,1,,1,,,1,,,,,,1,,1,1,1,,1,,,1
+Literature-Data Integration,,1,,1,,,1,1,,,,,1,,,,,,1,1,1,1
+Long Term Sustainability,,,,1,,,,,,,,,,,,1,,,,,1,
+"Packaging, containerisation and deployment",1,,1,1,,,1,1,,,,,1,,,1,,,1,,,
+Performance benchmarking and technical monitoring,,1,,,,,,,,,,,1,,,1,,,1,,1,
+Registry of bioinformatics tool information and identifiers,,1,1,,,,1,,,,,,,,,1,,,,,,
+Scalable Curation,,1,,1,,,1,1,,,,,1,1,,1,1,,1,1,1,1
+Software Best Practices,1,,,,,,,,1,,,,1,,1,1,,,,1,,
+Training Capacity Building,,,,1,,,,,1,1,,1,1,1,1,1,1,,1,,1,1
+Training Technical Infrastructure – TeSS,1,,1,1,,,1,,,,,1,,,1,,,1,1,,1,
+Training Toolkit,,,,1,,,,,,,,,,,,,,,1,,,1
+​Administration and support for Core Data Resource (CDR) and Deposition Database (EDD) portfolio,,,,1,,,,,,,,,,,,,,,,,1,
+First hCNV Community Implementation Study,,,,1,,,1,1,,1,,,,,1,1,,1,1,,1,1
+"Comparison, benchmarking and dissemination of proteomics data analysis pipelines",,1,1,1,,,1,1,,,,,1,,1,,,,1,1,,
+Expanding the Galaxy: meeting (the needs of) ELIXIR Communities,1,1,,1,,,1,1,1,,,,,,1,1,1,,1,,,1
+FONDUE - FAIR-ification of Plant Genotyping Data and its linking to Phenotyping using ELIXIR Platforms,1,,,1,,,1,1,,,,,,,1,,,,,,,
+Standardising the fluxomics workflows,1,,,1,1,1,1,1,1,1,,,1,,1,,,,1,1,1,1
+ELIXIR Beacon (2019-21),,,,1,,1,,,,,,,,1,,,,,1,1,1,
+Deploying Reproducible Containers and Workflows Across Cloud Environments,1,,1,1,,1,1,1,,,,,1,,1,,,,1,1,1,1
+ELIXIR Federated Human Data (2019-21),1,1,,1,1,1,,,,,,,,1,1,1,1,1,1,1,1,
+Rare Diseases Infrastructure,,,,1,,,1,,,,,,1,1,1,,,1,1,,1,1
+Integrating ELIXIR Italy into ELIXIR activities,,,,,,,,,,,,,1,,,,,,,,,
+Using clouds and VMs for bioinformatics training,1,,,,,1,1,1,,,,,,,1,,,1,1,,1,1
+Beacon & Beacon Network As A Service,1,,,1,,1,1,,,,,,1,,1,1,,,1,,1,
+Development of Architecture for Software Containers at ELIXIR and its use by EXCELERATE use-case communities,1,,1,1,,,1,1,,,,,1,,,,,,1,,,
+"Enabling the reuse, extension, scaling, and reproducibility of scientific workflows",,,,1,,1,1,,,,,,,,,,,,,,,1
+Towards Data Stewardship in ELIXIR: Training & Portal,1,1,,1,1,,1,,,,,,,1,1,1,1,1,,1,1,1
+Developing learning paths for users of ELIXIR services,1,,,1,1,1,1,,,,,,1,1,1,,,,,,1,1
+Data validation,1,,,1,,,1,,,,,,,,,,,,,,,1
+Apple as a model for genomics information exchange,1,,,1,,,,,,,,,1,,,,,,,,,
+Bioschemas: Community Adoption and Training,1,,,1,,,1,,,,,,1,,1,,,,,,,1
+Establishment of an ELIXIR Contextual Data Clearinghouse,,,,1,,,,1,,,,,1,,,1,,,,,,
+"FAIRness of the current ELIXIR Core resources: Application (and test) of newly available FAIR metrics, and identification of steps to increase interoperability",,,,1,,,,,,,,,1,,1,,,,,1,,1
+FAIRification of Genomic Tracks,,,,1,,,,,,,,,,,,1,,,1,,,
+Integration and standardization of intrinsically disordered protein data,,,,1,,,,,,1,1,,1,,,,,,,,1,
+Metabolite identification,1,,,1,1,,1,1,,,,,1,,1,,,,1,1,1,1
+Crowd-sourcing the annotation of public proteomics datasets to improve data reusability,1,,1,1,,,1,1,,,,,,,1,1,,,1,1,1,
+"Increasing Interoperability between ELIXIR Protein Structure and Sequence Resources (CATH, SWISS-MODEL, PDBe and InterPro) and Expanding these Resources with 3D-Models of CATH Domains, built by SWISS-MODEL",,,,1,,,,,,,,,,,,,,,,,1,1
+Integrating reference taxonomic databases for metabarcoding and metagenomics identification,,,,1,,,,,,,,,1,,,,,,,,,
+Annotation and curation of human genomic variations,,,,1,,1,,,,,,,1,,,1,,,,,1,1
+"Extending open proteomics data analysis pipelines in the cloud: Additional tools and focus on scalability, supporting the dramatic growth of public proteomics data",1,,,1,,,1,1,,,,,,,,,,,1,,,
+Galaxy Community,1,1,,,,,1,1,,,,,1,,1,1,,1,1,,1,1
+myFAIR Analysis: A Scalable approach to Personal FAIR Data Management and Analysis,,,,1,,,,,,,,,1,,1,,,,,,,
+"Mapping the landscape of Biocuration in ELIXIR: Practice, capability and training requirements",,,,1,,,,,,,,,,1,,,,1,,,1,1
+ELIXIR AAI Service Plan 2019-2020,,1,,,,1,,,,,,,,,,,,,,,,
+protopedia,,,,1,,,,,,,,1,,,,,,,,,,
