@@ -1,0 +1,59 @@
+Nodes,Implementation Study,Belgium,Czech Republic,Denmark,EMBL-EBI,Estonia,Finland,France,Germany,Greece,Hungary,Ireland,Israel,Italy,Luxembourg,Netherlands,Norway,Portugal,Slovenia,Spain,Sweden,Switzerland,UK
+"EBI, (ES)",2014-EGA,,,,1,,,,,,,,,,,,,,,1,,,
+DK,2014-registry,,,1,,,,,,,,,,,,,,,,,,,
+"SE, EBI",2014-proteome,,,,1,,,,,,,,,,,,,,,,1,,
+"NO, EBI",2014-marine,,,,1,,,,,,,,,,,,1,,,,,,
+"NL, FR, EBI",2015-raredisease,,,,,,,1,,,,,,,,1,,,,1,,,
+DK,2015-registry,,,1,,,,,,,,,,,,,,,,,,,
+"NL, EBI, ES",2015-TRAIT,,,,1,,,,,,,,,,,1,,,,1,,,
+UK,2015-metrics,,,,,,,,,,,,,,,,,,,,,,1
+"FI, FR, CH, BE, EBI, ES, SE, NL",2015-beacon,1,,,1,,1,1,,,,,,,,1,,,,1,1,1,
+"EBI, (ES)",2016-Oncotrack,,,,1,,,,,,,,,,,,,,,1,,,
+EBI,2016-Identifiers,,,,1,,,,,,,,,,,,,,,,,,
+"CH, FR, EBI",2016-metadata,,,,1,,,1,,,,,,,,,,,,,,1,
+CH,2016-sustainability,,,,,,,,,,,,,,,,,,,,,1,
+"FI, CH, BE, SE, EBI, ES, (FR, NL)",2017-beacon,1,,,1,,1,1,,,,,,,,1,,,,1,1,1,
+"NO, SE, EBI",2017-ensembl,,,,1,,,,,,,,,,,,1,,,,1,,
+"EBI, DE",2017-Proteome,,,,1,,,,1,,,,,,,,,,,,,,
+"FR, CH, EBI",2017-Systems,,,,1,,,1,,,,,,,,,,,,,,1,
+"FI, CZ",2017-AAI,,1,,,,1,,,,,,,,,,,,,,,,
+"NL, UK, EBI, (FI, ES, SE, DK)",2017-Bioschemas,,,1,1,,1,,,,,,,,,1,,,,1,1,,1
+"NL, ES, (IT)",2017-moldatainRD,,,,,,,,,,,,,1,,1,,,,1,,,
+"EBI, ES",2017-RDvisulization,,,,1,,,,,,,,,,,,,,,1,,,
+LU,2017-LUintegration,,,,,,,,,,,,,1,,,,,,,,,
+"SE, CZ, FI, EBI, DE",2017-Datamovement,,1,,1,,1,,1,,,,,,,,,,,,1,,
+"BE, EE, UK, (DK, CH, NO, EBI, FR)",2017-Userperspective,1,,1,1,1,,1,,,,,,,,,1,,,,,1,1
+IT,2017-ITintegration,,,,,,,,,,,,,1,,,,,,,,,
+"FI, (NL, CH, FR, UK, BE, ES, SI, DE)",2017-Workshopclouds,1,,,,,1,1,1,,,,,,,1,,,1,1,,1,1
+"FI, CZ, DE, ES, LU",2018-aai,,1,,,,1,,1,,,,,,1,,,,,1,,,
+"FI, ES, CH, EBI, SE, BE, NL, NO, IT, SI",2018-beacon,1,,,1,,1,,,,,,,1,,1,1,,1,1,1,1,
+"ES, BE, FR, DK, IT, EBI, DE, NO",2018-biocontainers,1,,1,1,,,1,1,,,,,1,,,1,,,1,,,
+"FI, EBI, CH, DE, IT",2018-compatiblecloud,,,,1,,1,,1,,,,,1,,,,,,,,1,
+"FR, FI, UK, EBI, IT, SI",2018-cwl,,,,1,,1,1,,,,,,1,,,,,1,,,,1
+"NL, CZ, LU,(CH, SI, UK, EE, FR, PT, NO, EBI, SE, BE)",2018-DMP,1,1,,1,1,,1,,,,,,,1,1,1,1,1,,1,1,1
+"UK, NL, FR, LU, BE, IT, EE, (CH, EBI, FI)",2018-learningpaths,1,,,1,1,1,1,,,,,,1,1,1,,,,,,1,1
+"BE, UK, FR, EBI, ES",2018-validation,1,,,1,,,1,,,,,,,,,,,,1,,,1
+"IT, BE, EBI",2018-apple,1,,,1,,,,,,,,,1,,,,,,,,,
+"UK, FR, EBI",2018-bioschemas,,,,1,,,1,,,,,,,,,,,,,,,1
+"NO, IT, EBI, DE",2018-clearinghouse,,,,1,,,,1,,,,,1,,,1,,,,,,
+"NL, UK, IT, SE, EBI",2018-FAIRCDR,,,,1,,,,,,,,,1,,1,,,,,1,,1
+"NO, EBI, ES",2018-FAIRification,,,,1,,,,,,,,,,,,1,,,1,,,
+"IT, CH, EBI, HU, IE",2018-IDP,,,,1,,,,,,1,1,,1,,,,,,,,1,
+"NL, DE, FR, ES, GR, SE, IT, CH, (EE, UK, CH, BE)",2018-metabolomics,1,,,,1,,1,1,1,,,,1,,1,,,,1,1,1,1
+"BE, NL, DK, CH, FR, SE, NO, EBI, DE, ES",2018-proteomics,1,,1,1,,,1,1,,,,,,,1,1,,,1,1,1,
+"UK, CH, EBI",2018-structure,,,,1,,,,,,,,,,,,,,,,,1,1
+"IT, EBI",2018-taxometabarcode,,,,1,,,,,,,,,1,,,,,,,,,
+"FI, EBI, CH, IT, UK, NO",2018-variations,,,,1,,1,,,,,,,1,,,1,,,,,1,1
+"BE, FR, EBI, DE, ES",2018-proteome,1,,,1,,,1,1,,,,,,,,,,,1,,,
+"FR, IT, NL, NO, DE, ES",2018-galaxy,,,,,,,1,1,,,,,1,,1,1,,,1,,,
+"NL, IT, EBI",2018-MyFAIR,,,,1,,,,,,,,,1,,1,,,,,,,
+"UK, CH, EBI, LU, SI",2018-biocuration,,,,1,,,,,,,,,,1,,,,1,,,1,1
+"NL, FR, PT, IT",2017-staffex1,,,,,,,1,,,,,,1,,1,,1,,,,,
+"CZ, EBI",2017-staffex2,,1,,1,,,,,,,,,,,,,,,,,,
+"ES, FI, SE",2017-staffex3,,,,,,1,,,,,,,,,,,,,1,1,,
+"FI, ES",2017-staffex4,,,,,,1,,,,,,,,,,,,,1,,,
+"IT, ES",2017-staffex5,,,,,,,,,,,,,1,,,,,,1,,,
+"SI, ES",2017-staffex6,,,,,,,,,,,,,,,,,,1,1,,,
+"SE, SI",2017-staffex7,,,,,,,,,,,,,,,,,,1,,1,,
+"EBI, CZ",2016-staffex1,,1,,1,,,,,,,,,,,,,,,,,,
+"EBI, IL",2018-staffex1,,,,1,,,,,,,,1,,,,,,,,,,
