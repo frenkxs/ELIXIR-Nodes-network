@@ -3,8 +3,10 @@ library(tidyverse)
 library(circlize)
 library(tweenr)
 
+# Based on animated chord diagrams of global migration flow by Gut Abel 
+# (estimateshttps://guyabel.com/post/animated-directional-chord-diagrams/)
 
-# Data preparation #########
+# Data preparation 
 
 f <- read_csv('cir-02.csv')
 
