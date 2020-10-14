@@ -31,6 +31,9 @@ f[is.na(f)] <- 0
 # generate colurs for the links
 colours <- matrix(rand_color(22*22, transparency = 0.5), 22)
 
+# for limited nubmer of colours
+colours <- matrix(rep(c('#FF7733', '#908E8E', '#6694B7'), 22*7.4)[1:484], 22)
+
 # make the matrix of colours symmetrics, so that the links are not directionals (same colour for A>B as for B>A).
 colours[lower.tri(colours)] <- colours[upper.tri(colours)]
 
